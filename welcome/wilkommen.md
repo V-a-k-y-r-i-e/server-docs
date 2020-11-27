@@ -1,4 +1,4 @@
-# Welcome
+# Wilkommen
 
 Deutsche Version - [English verison](https://github.com/V-a-k-y-r-i-e/server-docs/blob/main/welcome/welcome.md)
 
