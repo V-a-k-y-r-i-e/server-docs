@@ -1,6 +1,6 @@
 # Welcome
 
-English version - [Deutsche Verison](https://github.com/V-a-k-y-r-i-e/server-docs/blob/main/welcome/wilkommen.md)
+[English verison - Full](https://github.com/V-a-k-y-r-i-e/server-docs/blob/main/welcome/welcome.md) - [Deutsche Verison - Full](https://github.com/V-a-k-y-r-i-e/server-docs/blob/main/welcome/wilkommen.md)
 
 ## **Who are we?**
 
