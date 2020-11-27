@@ -12,7 +12,7 @@ Das Mitglied mit dem höchsten Rang auf dem Server ist somit auch immer der Serv
 
 ## **Regeln:**
 
-- Akzeptiert, dass nicht alle eurer Meinung sein müssen.
+- Akzeptiert, das nicht alle eurer Meinung sein müssen.
 - Keine Illegalen Inhalte.
 - Keine Verlinkungen auf andere Server.
 - Bot Befehle nur unter #bot.
