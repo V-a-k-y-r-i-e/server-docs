@@ -1,0 +1,41 @@
+{
+    "content": "@here",
+    "embeds": [
+        {
+            "title": "Lorem",
+            "description": "Ipsum",
+            "color": 4868682,
+            "timestamp": "2020-11-19T23:43:51.006Z",
+            "footer": {
+                "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+                "text": "footer text"
+            },
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            "image": {
+                "url": "https://raw.githubusercontent.com/Mee6/Mee6-documentation/master/docs/pics/total_xp_level.png"
+            },
+            "fields": [
+                {
+                    "name": "Lorem",
+                    "value": "Ipsum"
+                },
+                {
+                    "name": "Lorem",
+                    "value": "Ipsum",
+                    "inline": true
+                },
+                {
+                    "name": "Lorem",
+                    "value": "Ipsum",
+                    "inline": true
+                }
+            ]
+        },
+        {
+            "title": "Lorem",
+            "description": "Ipsum"
+        }
+    ]
+}
