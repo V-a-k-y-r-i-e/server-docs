@@ -15,7 +15,8 @@ The highest ranking member also is the server owner. And administrative decision
 - Agree to disagree.
 - No illegal content.
 - No linking to other servers.
-- Bot commands only under #bot .
+- Bot commands only under #bot.
+- No Spoilers, or mark them as such.
 - No exploiting loopholes in the rules (please report them).
 
 ## Where do I start?
