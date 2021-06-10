@@ -16,6 +16,7 @@ Das Mitglied mit dem höchsten Rang auf dem Server ist somit auch immer der Serv
 - Keine Illegalen Inhalte.
 - Keine Verlinkungen auf andere Server.
 - Bot Befehle nur unter #bot.
+- Keine Spoiler, bzw. welche als solche markieren.
 - Kein Ausnutzen von Schlupflöchern in den Regeln (bitte berichtet diese).
 
 ## **Wie geht's los?**
